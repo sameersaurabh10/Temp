@@ -2,6 +2,12 @@
 
 int main()
 {
-	printf("Hello World\n");
+	char *msg = "Hello World";
+
+	printf("Programming starts...\n");
+
+	printf("Msg: %s\n", msg);
+
+	printf("Programming ends...\n");
 	return 0;
 }
