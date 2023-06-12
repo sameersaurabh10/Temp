@@ -1,0 +1,2 @@
+http.check-revoke = false
+https.check-revoke = false
